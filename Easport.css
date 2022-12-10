@@ -1,0 +1,433 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.blackimg{
+    width: 1500px;
+    position: absolute;
+    top: 77;
+    z-index: -5;
+} 
+.topheader{
+    display: flex;
+    width: 100%;
+    height: 40px;
+    background: black;
+}
+.headericons{
+    display: flex;
+    padding-left: 1300px;
+}
+#topbaricon1{
+    margin-left: 18px;
+    width: 40px;
+    height: 40px;
+}
+#textcolor{
+    color: red;
+}
+.toppart{
+    position: relative;
+}
+.bottomheader{
+    width: 100%;
+    height: 47px;
+    background-color: white;
+    display: flex;
+    z-index: 2;
+    position: sticky;
+    top: 0;
+  
+    
+}
+.bott-head{
+    position: sticky;
+}
+.backgroundvdo{
+    width: 1522px;
+    height: 900px;
+    position: absolute;
+    top:0;
+    z-index:-3;
+  
+
+    
+} 
+#backgroundvideo{
+    width: 1522px;
+    height:900px;
+
+    
+}
+.bheader{
+ display: flex;
+}
+.bheadnav{
+    font-size: 22px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    margin-inline: 20px;
+    margin-top: 20px;
+
+}
+.navs{
+    font-size: 22px;
+    font-weight: 300;
+    display: flex;
+    margin-left: 50px;
+}
+#navimg2{
+    width: 245px;
+    height: 24px;
+    margin-left: 60px;
+    margin-top: 13px;
+}
+.aftervdo{
+    width: 100%;
+    height:auto;
+    position: absolute;
+    top: 320px;  
+    text-align: center;                            ;
+}
+#backimage{
+    width: 1519px;
+    height: 2000px;
+}
+#easportslogo{
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    margin-left: 680px;
+}
+#para1{
+    font-size: 54px;
+    line-height: 62px;
+    font-weight:600;
+    margin-top: 72px;
+    color: white;
+}
+.para2{
+    margin-left: 180px;
+    width: 1103px;
+    height: 134px;
+    text-align: center;
+    margin-top: 31px;
+    color: white;
+
+}
+#para2{
+    font-size: 24px;
+    line-height: 32.4px;
+    font-weight: 400;
+
+}
+.p2{
+    width: 928px;
+    height: 51px;
+    margin-top: 38px;
+    margin-left: 280px;
+    
+   
+}
+#p2{
+    font-size: 45px;
+    font-weight: 550;
+}
+.overlay{
+    position: absolute;
+    top:220px;
+    left: 0; 
+}
+.img1{
+    width: 320px;
+    height: 320px;
+    margin-top: 20px;
+    position: relative;
+}
+.img2{
+   
+    width: 200px;
+    height: 60px;
+    transition:ease-in;
+    transition: .5s;
+   
+}
+.img2:hover{
+    width: 220px;
+    height: 70px;
+}
+ .cards{
+    display: flex;
+    margin-left: 40px; 
+    margin-top: 25px;
+}
+
+.cardimages{
+    width: 1519px;
+} 
+.img2{
+    transform: translate(0,-200px);
+}
+.join{
+    width: 100%;
+    height: 110px;
+    background:left linear-gradient(to right,#0d1043,#7f2944);
+    display: flex;
+    margin-top: 20px;
+}
+.col1{
+    width: 430px;
+    height: 430px;
+    margin: 15px;
+}
+.sportscol1{
+    margin-top: 50px;
+}
+.p3{
+    font-size: 32px;
+    color: white;
+    font-weight: 600;
+    margin-left: 150px;
+    margin-top: 39px;
+}
+#eaplay{
+    width: 138px;
+    height: 45px;
+    margin-top: 35px;
+    margin-left: 150px;
+}
+.allsports{
+
+    font-size: 15px;
+    border-color: white;
+    width: 175px;
+    height: 65px;
+    margin-top:25px;
+    color: white;
+    font-weight: 300;
+     background: transparent;
+}
+.joinnow{
+    font-size: 15px;
+    border-color: white;
+    width: 175px;
+    height: 65px;
+    margin-top:25px;
+    color: white;
+    font-weight: 300;
+    margin-left: 80px;
+   background: transparent;
+}
+.news{
+    width: 928px;
+    height: 51px;
+}
+#news{
+    margin-top: 120px;
+    margin-left: 550px;
+    font-size: 50px;
+    font-weight: 600;
+
+
+}
+.footno1{
+    width: 1519px;
+    margin-top: 36px;
+    height: 60px;
+    background: #efefef;
+}
+.foot1{
+    
+    width: 1300px;
+    height: 60px;
+   
+    display: inline-flex;   
+         
+    }
+#ft1{
+  font-size: 19px;
+  line-height: 27px;
+  font-family: sans-serif;
+  padding-top: 20px;
+  margin-left: 50px;
+}
+.sportscolumn{
+    display: flex;  
+    padding-top: 70px;
+    padding-left: 150px;
+ 
+}
+.newcards{
+    width: 1519px;
+    height: 1200px;
+    background: #efefef;
+} 
+.sportscolumn1{
+    display: flex;
+    margin-left: 150px;
+    padding-top: 30px;
+  
+}
+.cardno2{
+    margin-left: 25px;
+}
+.cardno3{
+    margin-left: 50px;
+}
+.column{
+    width: 360px;
+    height: 215px;
+    margin-top: 15px;
+}
+#cardpara1,#cardpara2,#cardpara3{
+    margin-left: 15px;
+    padding-top: 20px;
+}
+.cardno1:hover,.cardno3:hover,.cardno2:hover{
+    transition: 0.5s;
+    margin-top: -10px;
+    box-shadow: 0px 60px 80px -15px rgb(67, 65, 65);
+
+}
+.cardpara1{
+    font-weight: 300;
+    color: red;
+    padding-top: 20px;
+}
+.cardpara2{
+    font-size: 23px;
+    font-weight: 570;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    line-height: 30px;
+    color: rgb(0,0,0);
+    width: 382px;
+}
+.cardpara3{
+    font-size: 18px;
+    text-align: left; 
+    font-weight: 400;
+}
+.cardno1,.cardno2,.cardno3{
+    width: 390px;
+    height: 480px;
+    box-shadow: 10px 10px 100px -25px gray;
+}
+.coln1,.coln2,.coln3{
+    width: 390px;
+    height: 450px;
+}
+.readmore{
+    font-size: 15px;
+    border-color: rgb(0, 0, 0);
+    width: 175px;
+    height: 65px;
+    color: black;
+    font-weight: 300;
+    margin-top: 60px;
+     background: transparent;
+
+}
+.footerabove2{
+    width:1519px;
+    height:22px;
+    background: #efefef;
+     background-image: url("images/ea-sports-pc-join-us-xl.png.adapt.1920w.png");
+} 
+.fa2{
+    font-size: 30px;
+    font-weight: 650;
+   
+    line-height:60px ;
+    padding-top: 10px;
+
+}
+#fa2{
+    padding-left:220px;
+    padding-top: 15px;
+
+}
+
+.footer2{
+    width: 1519px;
+    height: 112px;
+    display: flex;
+    
+
+}
+
+.jointheteam{
+    padding-left: 460px;
+    
+}
+#jointheteam{
+    margin-top: 30px;
+    width: 160px;
+    height: 50px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background:#ff4747;
+    border-radius: 5px;
+    border-color: transparent;
+}
+.footer3{
+    width: 1519px;
+    height: 200px;
+    background: rgb(234,234,234);
+    z-index: 18;
+}
+.foot3-contents{
+    display: flex;
+    height: 40px;
+    padding-left: 90px;
+}
+.socialmedia{
+    width: 238px;
+    height: 62px;
+    padding-left: 350px;
+}#foot3-content{
+    height: 27px;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-stretch: expanded;
+}
+#foot3-content1{
+    height: 27px;
+    margin-top: 50px;
+    margin-left:30px;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-stretch: expanded;
+}
+#icons{
+    margin-top: 8px;
+    margin-left: 9px;
+    width: 35px;
+    height: 35px;
+}
+.bott-footer{
+    width: 1519px;
+    height: 250px;
+    background-color: #efefef;
+}
+#foot-icon{
+    width: 55px;
+    height: 55px;
+    margin-top: 25px;
+}
+.foot-contents{
+    display: inline-flex;
+    margin-top: 60px;
+}
+#foot-content{
+    height: 27px;
+    margin-top: 50px;
+    margin-left:50px;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-stretch: expanded;
+}
